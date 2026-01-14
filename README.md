@@ -1,6 +1,6 @@
 [![Matrix SVG](./img/matrix.svg)](https://www.springing.top)
 
-### (｡･∀･)ﾉﾞHi 👋, Here is 小春子
+### (｡･∀･)ﾉﾞHi 👋, Here is Ahao
 
 <a href="#">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
@@ -23,13 +23,13 @@
 <br>
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=lispringing&count_private=true&show_icons=true" alt="小春子" />
 
-- 👨 I am a student of **YanTai University**.
+- 👨 I am a student of **GSAU**.
 - 💻 Major is **Electronic Information Science and Technology**.
-- 🌱 I'm currently learning **STM32**.
+- 🌱 I'm currently learning **Vue**.
 - 🤔 I like all **the interesting things**.
 - 💬 If you have any questions, **just ask me**.
-- This is my email: **2638526782@qq.com**.
-- Click [here](https://www.springing.top) to my homepage
+- This is my email: **2152685769@qq.com**.
+
 
 
 
