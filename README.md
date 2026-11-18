@@ -28,7 +28,7 @@
 - 🌱 I'm currently learning **Vue**.
 - 🤔 I like all **the interesting things**.
 - 💬 If you have any questions, **just ask me**.
-- This is my email: **2152685769@qq.com**.
+- This is my email: **laoda@veinsec.com**.
 
 
 
